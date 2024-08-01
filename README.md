@@ -4,6 +4,7 @@ This project compares the similarity between images using features extracted fro
 
 ## Project Structure
 
+```bash
 📦image_similarity
  ┣ 📂data
  ┃ ┗ 📂images
@@ -15,6 +16,7 @@ This project compares the similarity between images using features extracted fro
  ┣ 📜README.md
  ┣ 📜image_similarity.ipynb
  ┗ 📜requirements.txt
+```
 
 ## Requirements
 
